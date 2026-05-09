@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Impoeksa\\Desktop\\CSE325-Projects\\ContosoPizza\\ContosoPizza.csproj": {}
+    "C:\\Users\\Impoeksa\\Desktop\\CSE325-Projects\\contosopizza\\ContosoPizza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Impoeksa\\Desktop\\CSE325-Projects\\ContosoPizza\\ContosoPizza.csproj": {
+    "C:\\Users\\Impoeksa\\Desktop\\CSE325-Projects\\contosopizza\\ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Impoeksa\\Desktop\\CSE325-Projects\\ContosoPizza\\ContosoPizza.csproj",
+        "projectUniqueName": "C:\\Users\\Impoeksa\\Desktop\\CSE325-Projects\\contosopizza\\ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "C:\\Users\\Impoeksa\\Desktop\\CSE325-Projects\\ContosoPizza\\ContosoPizza.csproj",
+        "projectPath": "C:\\Users\\Impoeksa\\Desktop\\CSE325-Projects\\contosopizza\\ContosoPizza.csproj",
         "packagesPath": "C:\\Users\\Impoeksa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Impoeksa\\Desktop\\CSE325-Projects\\ContosoPizza\\obj\\",
+        "outputPath": "C:\\Users\\Impoeksa\\Desktop\\CSE325-Projects\\contosopizza\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Impoeksa\\AppData\\Roaming\\NuGet\\NuGet.Config"
