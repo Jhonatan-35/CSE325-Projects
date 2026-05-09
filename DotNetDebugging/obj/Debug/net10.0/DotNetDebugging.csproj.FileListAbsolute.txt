@@ -1,0 +1,15 @@
+C:\Users\Impoeksa\Desktop\CSE325-Projects\DotNetDebugging\bin\Debug\net10.0\DotNetDebugging.exe
+C:\Users\Impoeksa\Desktop\CSE325-Projects\DotNetDebugging\bin\Debug\net10.0\DotNetDebugging.deps.json
+C:\Users\Impoeksa\Desktop\CSE325-Projects\DotNetDebugging\bin\Debug\net10.0\DotNetDebugging.runtimeconfig.json
+C:\Users\Impoeksa\Desktop\CSE325-Projects\DotNetDebugging\bin\Debug\net10.0\DotNetDebugging.dll
+C:\Users\Impoeksa\Desktop\CSE325-Projects\DotNetDebugging\bin\Debug\net10.0\DotNetDebugging.pdb
+C:\Users\Impoeksa\Desktop\CSE325-Projects\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Impoeksa\Desktop\CSE325-Projects\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\Impoeksa\Desktop\CSE325-Projects\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\Impoeksa\Desktop\CSE325-Projects\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Impoeksa\Desktop\CSE325-Projects\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.sourcelink.json
+C:\Users\Impoeksa\Desktop\CSE325-Projects\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.dll
+C:\Users\Impoeksa\Desktop\CSE325-Projects\DotNetDebugging\obj\Debug\net10.0\refint\DotNetDebugging.dll
+C:\Users\Impoeksa\Desktop\CSE325-Projects\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.pdb
+C:\Users\Impoeksa\Desktop\CSE325-Projects\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.genruntimeconfig.cache
+C:\Users\Impoeksa\Desktop\CSE325-Projects\DotNetDebugging\obj\Debug\net10.0\ref\DotNetDebugging.dll
