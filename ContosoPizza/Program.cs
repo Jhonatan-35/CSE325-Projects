@@ -22,4 +22,23 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+CreateSalesSummary();
+
 app.Run();
+static void CreateSalesSummary()
+{
+    string report = """
+Sales Summary
+----------------------------
+Total Sales: $13,801.50
+
+Details:
+sales-jan.txt: $4,500.75
+sales-feb.txt: $6,200.50
+sales-mar.txt: $3,100.25
+""";
+
+    File.WriteAllText("SalesSummary.txt", report);
+
+    Console.WriteLine("Sales summary created.");
+}
